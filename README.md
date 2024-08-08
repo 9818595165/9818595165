@@ -6,9 +6,9 @@
 <div align="center">  
  <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b477e4b1cfebc66bbf60847d535205e291b7f5b4a12f22381ff1d9c67a7e4f07/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e7368696b6170617468616b6373266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"> -->
 <div align="left">
-Passionate Project Leader(iOS) with a knack for creating beautiful and functional iOS applications. With over 13 years of experience in iOS development, I have acquired and applied expertise in SwiftUI, Objective-C, Swift, BLE, among other technologies and frameworks.
+<p>Passionate Project Leader(iOS) with a knack for creating beautiful and functional iOS applications. With over 13 years of experience in iOS development, I have acquired and applied expertise in SwiftUI, Objective-C, Swift, BLE, among other technologies and frameworks.</p>
  
-<p>My mission is to create innovative and impactful solutions that meet the needs and expectations of clients in the medical and security domains. I have successfully led and managed multiple projects for Biomedix, Verimatrix, and InsideSecure, delivering high-quality and user-friendly applications that leverage the latest trends and best practices. Eager to expand expertise and deliver exceptional iOS solutions at Atmospheric Solutions. Enthusiastic about learning new technologies and exploring new horizons to enhance skills and deliver outstanding results.I also enjoy collaborating with my team and clients, and empowering them to achieve their goals and vision..</p>
+<p>My mission is to create innovative and impactful solutions that meet the needs and expectations of clients in the medical and security domains. I have successfully led and managed multiple projects for Biomedix, Verimatrix, and InsideSecure, delivering high-quality and user-friendly applications that leverage the latest trends and best practices. Eager to expand expertise and deliver exceptional iOS solutions at Atmospheric Solutions. Enthusiastic about learning new technologies and exploring new horizons to enhance skills and deliver outstanding results.I also enjoy collaborating with my team and clients, and empowering them to achieve their goals and vision.</p>
 </div>
 
 <p><h3 align="left">About Me:</h3></p>
