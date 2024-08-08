@@ -23,7 +23,7 @@
 </li>
   <li>💬 Ask me about SwiftUI , Swift, Uikit, Firebase , OOPS, Sensor/BLE.
 </li>
-  <li>📫 How to reach me prabhat.cse.mmmec@gmail.com
+  <li>📫 How to reach me <a href="mailto:prabhat.cse.mmmec@gmail.com">prabhat.cse.mmmec@gmail.com</a>.<br> 
 </li>
 </ul>
 </div>
